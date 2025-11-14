@@ -1,0 +1,5 @@
+{
+  "name": "Equipment Inventory AI",
+  "description": "A simple and elegant application to manage your equipment inventory, featuring AI-powered description generation to streamline data entry.",
+  "requestFramePermissions": []
+}
